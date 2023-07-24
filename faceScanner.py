@@ -1,3 +1,5 @@
+# QuartzzDev
+
 import cv2
 from win10toast import ToastNotifier
 
